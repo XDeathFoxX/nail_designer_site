@@ -2,10 +2,12 @@ body {
     margin: 0;
     padding: 0;
     display: flex;
-    width: 100%;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: #edabe7;
+    background-image: url("./app/20594044.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 190vh;
 }
 

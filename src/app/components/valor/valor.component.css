@@ -1,0 +1,21 @@
+* {
+    width: 90vw;
+}
+
+.span {
+    display: flex;
+}
+
+.divider {
+    background-color: #EFA8E7;
+    width: 100%;
+    height: 3px;
+}
+
+.nome {
+    margin-right: 2rem;
+}
+
+.valor {
+    margin-left: 3rem;
+}
